@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "T/DfzXz32SDFynpd7BVwTq77Vn+4kGJ5GgXjyDFKtrstG/4bUv/qcObvdrSujDOfQlB6IrckDfpRXznzZifZ2Q==",
+  "dgSpecHash": "/0Boz8qe9VLviH8W9vIgbremlON3Ou7KnD2vhDfY6/dHuFMv03AdTuaRowz5cywaoqxoyqjuNHMsOwrBGTRBlg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SAM\\GitHub\\itdev162\\Persistence\\Persistence.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SAM\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\SAM\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.2\\microsoft.netframework.referenceassemblies.net20.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

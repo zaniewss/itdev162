@@ -1,8 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "4cumRyXLhCCHXXCpEMUem/1lksm6hpWFYqTLQxtNmw5bcWo8PSQIr3YElsPFHQuzc1qaoHv/+ozZHZkgr+TxkA==",
+  "dgSpecHash": "TZhljzAk5Ri0urt63YHbEZy5hcQ08uVIFmjaEZ96YxesMpCDj4wEsDxbGJwTm64fVXT7NYWFnVgZ9zU4f/GTrg==",
   "success": true,
   "projectFilePath": "C:\\Users\\SAM\\GitHub\\itdev162\\Application\\Application.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\SAM\\.nuget\\packages\\microsoft.netframework.referenceassemblies\\1.0.2\\microsoft.netframework.referenceassemblies.1.0.2.nupkg.sha512",
+    "C:\\Users\\SAM\\.nuget\\packages\\microsoft.netframework.referenceassemblies.net20\\1.0.2\\microsoft.netframework.referenceassemblies.net20.1.0.2.nupkg.sha512"
+  ],
   "logs": []
 }

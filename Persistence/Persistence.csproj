@@ -5,8 +5,9 @@
   </ItemGroup>
 
   <PropertyGroup>
-    <TargetFramework>net2.2</TargetFramework>
+    <TargetFramework>net461</TargetFramework>
     <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>10.0</LangVersion>
     <Nullable>enable</Nullable>
   </PropertyGroup>
 

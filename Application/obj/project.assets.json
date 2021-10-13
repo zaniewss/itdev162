@@ -1,10 +1,10 @@
 {
   "version": 3,
   "targets": {
-    ".NETFramework,Version=v6.0": {
+    ".NETFramework,Version=v4.6.1": {
       "Domain/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v6.0",
+        "framework": ".NETFramework,Version=v4.6.1",
         "compile": {
           "bin/placeholder/Domain.dll": {}
         },
@@ -14,7 +14,7 @@
       },
       "Persistence/1.0.0": {
         "type": "project",
-        "framework": ".NETFramework,Version=v6.0",
+        "framework": ".NETFramework,Version=v4.6.1",
         "dependencies": {
           "Domain": "1.0.0"
         },
@@ -40,7 +40,7 @@
     }
   },
   "projectFileDependencyGroups": {
-    ".NETFramework,Version=v6.0": [
+    ".NETFramework,Version=v4.6.1": [
       "Domain >= 1.0.0",
       "Persistence >= 1.0.0"
     ]
@@ -52,11 +52,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "c:\\Users\\SAM\\GitHub\\itdev162\\Application\\Application.csproj",
+      "projectUniqueName": "C:\\Users\\SAM\\GitHub\\itdev162\\Application\\Application.csproj",
       "projectName": "Application",
-      "projectPath": "c:\\Users\\SAM\\GitHub\\itdev162\\Application\\Application.csproj",
+      "projectPath": "C:\\Users\\SAM\\GitHub\\itdev162\\Application\\Application.csproj",
       "packagesPath": "C:\\Users\\SAM\\.nuget\\packages\\",
-      "outputPath": "c:\\Users\\SAM\\GitHub\\itdev162\\Application\\obj\\",
+      "outputPath": "C:\\Users\\SAM\\GitHub\\itdev162\\Application\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -66,20 +66,20 @@
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
-        "net60"
+        "net461"
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
-        "net60": {
+        "net461": {
           "projectReferences": {
-            "c:\\Users\\SAM\\GitHub\\itdev162\\Domain\\Domain.csproj": {
-              "projectPath": "c:\\Users\\SAM\\GitHub\\itdev162\\Domain\\Domain.csproj"
+            "C:\\Users\\SAM\\GitHub\\itdev162\\Domain\\Domain.csproj": {
+              "projectPath": "C:\\Users\\SAM\\GitHub\\itdev162\\Domain\\Domain.csproj"
             },
-            "c:\\Users\\SAM\\GitHub\\itdev162\\Persistence\\Persistence.csproj": {
-              "projectPath": "c:\\Users\\SAM\\GitHub\\itdev162\\Persistence\\Persistence.csproj"
+            "C:\\Users\\SAM\\GitHub\\itdev162\\Persistence\\Persistence.csproj": {
+              "projectPath": "C:\\Users\\SAM\\GitHub\\itdev162\\Persistence\\Persistence.csproj"
             }
           }
         }
@@ -91,7 +91,7 @@
       }
     },
     "frameworks": {
-      "net60": {}
+      "net461": {}
     }
   }
 }

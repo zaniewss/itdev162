@@ -1,0 +1,4 @@
+C:\Users\SAM\GitHub\itdev162\Domain\obj\Debug\net461\Domain.csprojAssemblyReference.cache
+C:\Users\SAM\GitHub\itdev162\Domain\obj\Debug\net461\Domain.csproj.CoreCompileInputs.cache
+C:\Users\SAM\GitHub\itdev162\Domain\obj\Debug\net461\Domain.AssemblyInfoInputs.cache
+C:\Users\SAM\GitHub\itdev162\Domain\obj\Debug\net461\Domain.AssemblyInfo.cs
